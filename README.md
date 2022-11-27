@@ -1,6 +1,6 @@
 # Flutter Drawer Navigation
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/ufer4QTFTO8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ufer4QTFTO8)
 
 ## Getting Started
 
